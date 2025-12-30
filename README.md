@@ -20,7 +20,6 @@
  
  <tr> 
     <td><h4>
-<!-- <img title="linkedin" src="https://img.icons8.com/?size=23&id=41995&format=png&color=000000"/> &nbsp;<br/> -->
    <b>
    My Projects:
    <a href="https://itskushal.com/projects">/projects</a>
@@ -29,7 +28,6 @@
   </td>
   
   <td>   <h4>
-<!-- <img title="leetcode" src="https://img.icons8.com/?size=24&id=wDGo581Ea5Nf&format=png"/> &nbsp;<br/> -->
 <b>
    LeetCode:
    <a href="https://leetcode.com/u/unixdriver">/u/unixdriver</a>
@@ -38,7 +36,6 @@
    </td>
    
   <td><h4>
-<!-- <img title="linkedin" src="https://img.icons8.com/?size=28&id=xuvGCOXi8Wyg&format=png"/> &nbsp;<br/> -->
    <b>
    LinkedIn:
    <a href="https://linkedin.com/in/itskushal">/in/itskushal</a>
@@ -46,9 +43,9 @@
    <br/><sub>1.5yr experience</sub></h4>
   </td>
   
-  <!-- <td> -->
-   <!-- <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=kush-ks&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&show_icons=true"/> -->
-  <!-- </td> -->
  </tr>
 </table>
+    <h6>⭐ 99 stars &nbsp; | &nbsp; ☘️ 12 repos</h6>
 </div>
+    
+
