@@ -30,7 +30,7 @@
   <td>   <h4>
 <b>
    LeetCode:
-   <a href="https://leetcode.com/u/unixdriver">/u/unixdriver</a>
+   <a href="https://leetcode.com/u/truexor">/u/truexor</a>
   </b>
    <br/><sub>Knight 1850+</sub></h4>
    </td>
