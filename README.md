@@ -1,4 +1,4 @@
-<div><h3><b>Visit Portfolio: <a href="https://itskushal.com">itskushal.com</a></b></h3></div>
+<div><h3><b>Visit Portfolio: <a href="https://kushalkumarsaha.com">kushalkumarsaha.com</a></b></h3></div>
 <div>
 <img style="height:21px" title="next.js" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
 <img style="height:22px" title="tailwind" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;
@@ -10,8 +10,8 @@
 <hr />
 
 <ul>
- <li>Check my Projects: <a href="https://itskushal.com/projects">https://itskushal.com/projects</a></li>
- <li>Read my Blogs: <a href="https://blogs.itskushal.com">https://blogs.itskushal.com</a></li>
+ <li>Check my Projects: <a href="https://kushalkumarsaha.com/projects">https://kushalkumarsaha.com/projects</a></li>
+ <li>Read my Blogs: <a href="https://blogs.kushalkumarsaha.com">https://blogs.kushalkumarsaha.com</a></li>
  <li>Text on Discord: <a href="https://discordapp.com/users/628212302004355078">https://discordapp.com/users/628212302004355078</a></li>
 </ul>
     
