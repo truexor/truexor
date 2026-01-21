@@ -15,4 +15,4 @@
  <li>Text on Discord: <a href="https://discordapp.com/users/628212302004355078">https://discordapp.com/users/628212302004355078</a></li>
 </ul>
     
-<h6>⭐ 99 stars &nbsp; | &nbsp; ☘️ 12 repos</h6>
+<h6>⭐ 101 stars &nbsp; | &nbsp; ☘️ 13 repos</h6>
